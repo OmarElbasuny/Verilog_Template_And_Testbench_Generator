@@ -76,10 +76,9 @@ The tool generates two files:
 3. Run the script:
 
 ```bash
-python verilog_generator.py
+python verilog_generator_GUI.py
 
----
-
+```
 👤 **Author**
 
 Omar Elbasiouny  
